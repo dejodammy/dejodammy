@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm My name is Damilola Oladejo</h1>
+<h3 align="center">A passionate software developer and cloud engineer</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
