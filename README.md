@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm My name is Damilola Oladejo</h1>
-<h3 align="center">A passionate software developer and cloud engineer</h3>
+<h1 align="left">Hi 👋, I'm My name is Damilola Oladejo</h1>
+<h3 align="left">A passionate software developer and cloud engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🌍  I'm based in Lagos, Nigeria<br>✉️  You can contact me at dejodammy7@gmail.com<br>🤝 I’m open to collaborating on exciting projects<br>🌱 I’m currently trying to get  AWS certifications
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dejodammy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dejodammy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=dejodammy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
