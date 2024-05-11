@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm My name is Damilola Oladejo</h1>
-<h3 align="left">software developer and cloud engineer</h3>
+<h3 align="left">Software Developer and Cloud Engineer</h3>
 
 # 💫 About Me:
 🌍  I'm based in Lagos, Nigeria<br>✉️  You can contact me at dejodammy7@gmail.com<br>🤝 I’m open to collaborating on exciting projects<br>🌱 I’m currently trying to get  AWS certifications
