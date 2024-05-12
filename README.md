@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 name is Damilola Oladejo</h1>
+<h1 align="left">Hi 👋, my name is Damilola Oladejo</h1>
 <h3 align="left">Software Developer and Cloud Engineer</h3>
 
 # 💫 About Me:
